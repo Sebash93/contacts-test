@@ -1,6 +1,6 @@
 # Contacts Test React Project
 
-This is the contacts test project.
+This is the contacts test project. Built with Node v20.10.0.
 
 ## Installation
 1. Clone the repository.
@@ -9,5 +9,7 @@ This is the contacts test project.
 ```yarn install```
 
 ## Usage
-To start the development server, run the following command:
-```yarn start```
+1. To start the development server, run the following command:
+```yarn start```.
+2. Open ```http://localhost:1234``` on the browser.
+
