@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "contacts-test",
+  "version": "1.0.0",
+  "description": "Take-home test for WOLF",
+  "main": "index.js",
+  "author": "Sebastian Hernandez",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn parcel src/index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.12.0",
+    "@types/react": "^18.3.2",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^9.2.0",
+    "eslint-plugin-react": "^7.34.1",
+    "globals": "^15.2.0",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10",
+    "typescript-eslint": "^7.9.0"
+  }
+}

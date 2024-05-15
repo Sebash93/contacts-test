@@ -1,0 +1,17 @@
+.contact-add {
+  background: #2351a5;
+  padding: 8px;
+  border-radius: 8px;
+
+  &__form {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  h4 {
+    margin: 0;
+    padding: 0;
+  }
+}

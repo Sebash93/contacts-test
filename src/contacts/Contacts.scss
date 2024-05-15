@@ -1,0 +1,17 @@
+.contacts {
+  background: #3b7bed;
+  color: white;
+  width: 100%;
+  max-width: 800px;
+  margin: 100px auto 0;
+  padding: 24px;
+  border-radius: 8px;
+  box-sizing: border-box;
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}

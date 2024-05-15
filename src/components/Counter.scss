@@ -1,0 +1,13 @@
+.counter {
+  &__number {
+    background: white;
+    color: #3b7bed;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8px;
+  }
+}

@@ -1,0 +1,17 @@
+.contact-item {
+  background: #f9f9f9;
+  padding: 8px;
+  border-radius: 8px;
+  color: #3b7bed;
+
+  &__name {
+    font-weight: bold;
+    margin: 0;
+  }
+
+  &__details {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
+}
