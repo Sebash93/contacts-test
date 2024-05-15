@@ -12,10 +12,6 @@ dist/
 .vscode/
 .idea/
 
-# Compiled TypeScript files
-*.js
-*.js.map
-
 # Dependency lock files
 yarn.lock
 package-lock.json
